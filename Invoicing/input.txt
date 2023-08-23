@@ -1,0 +1,5 @@
+100, Laptop, Dell, 2000
+101, Desktop, HP, 1000
+102, TV, Sony, 2500
+103, Mobile, Apple, 3000
+104, Laptop, Lenovo, 2200
